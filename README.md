@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BelloBodo [Pascal]
+- 👀 I’m interested in watching Anime.
+- 🌱 I’m currently learning Java.
+-
